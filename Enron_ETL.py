@@ -5,7 +5,14 @@
 # 3. As Pypi name specify "nltk" as the Pypi name
 
 import nltk
-import config.py
+
+# COMMAND ----------
+
+# MAGIC %run ./config
+
+# COMMAND ----------
+
+raw_file_location
 
 # COMMAND ----------
 
