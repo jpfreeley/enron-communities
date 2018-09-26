@@ -9,7 +9,7 @@ import config.py
 
 # COMMAND ----------
 
-raw_file = sc.textFile('/FileStore/tables/enron/enron_mysqldump-c4838.sql')
+raw_file = sc.textFile(raw_file_location)
 
 # COMMAND ----------
 
