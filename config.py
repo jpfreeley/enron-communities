@@ -1,0 +1,1 @@
+raw_file = sc.textFile('/FileStore/tables/enron/enron_mysqldump-c4838.sql')
