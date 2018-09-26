@@ -1,1 +1,1 @@
-raw_file_location = sc.textFile('/FileStore/tables/enron/enron_mysqldump-c4838.sql')
+raw_file_location = '/FileStore/tables/enron/enron_mysqldump-c4838.sql'
